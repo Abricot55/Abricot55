@@ -10,7 +10,12 @@ step-by-step solution. The purpose of this tool was to help students better unde
 **Technologies Used:** Java<br>
 [OPAAL](https://drive.google.com/drive/folders/1r-5COuNg1rH5664TEdPSYCIuHGYOdGWM?usp=sharing)<br>
 
-### 2. Real-life-rpg
+### 2. Java swing 3d renderer
+**Description:** It's an small application that can render complex 3d shapes. It is made entirely with java.swing which is primarily made for 2d.
+**Technologies Used:** Java<br>
+[3dRenderer](https://github.com/Abricot55/3dRenderer)<br>
+
+### 3. Real-life-rpg
 **Description:** With a colleague, we wanted to experiment with full-stack mobile development. Therefore, we decided to create a
 basic social network where users can communicate and share photos. It's still in developpement.  
 **Technologies Used:** Rust, Flutter, ArangoDB.  
