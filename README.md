@@ -3,8 +3,8 @@
 Here are some of the key projects that I have worked on or still working on:
 
 ### 1. Freecarve
-• This project was carried out as part of the Object-Oriented Software Engineering course at Université Laval. The mandate was to develop, for Université Laval’s lab-factory, software capable of configuring a board and allowing the user to define cuts, which would then be performed by the lab-factory's CNC cutting machine.
-**Technologies Used:** Java<br>
+• This project was carried out as part of the Object-Oriented Software Engineering course at Université Laval. The mandate was to develop, for Université Laval’s lab-factory, software capable of configuring a board and allowing the user to define cuts, which would then be performed by the lab-factory's CNC cutting machine.<br>
+**Technologies Used:** Java <br>
 [FREECARVE](https://github.com/Abricot55/Freecarve)<br>
 
 ### 2. Linear Algebra Pedagogical Tool
